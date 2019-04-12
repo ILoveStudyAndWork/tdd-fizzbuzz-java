@@ -24,8 +24,8 @@ Fizz
 Buzz
 11
 Fizz 
-Fizz
-Whizz
+13
+14
 FizzBuzz
 16
 17
